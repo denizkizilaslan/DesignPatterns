@@ -1,0 +1,15 @@
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.exe
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.deps.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.runtimeconfig.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\ref\DesignPattern.BuilderPattern.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\bin\Debug\net5.0\DesignPattern.BuilderPattern.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\ref\DesignPattern.BuilderPattern.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.BuilderPattern\obj\Debug\net5.0\DesignPattern.BuilderPattern.genruntimeconfig.cache

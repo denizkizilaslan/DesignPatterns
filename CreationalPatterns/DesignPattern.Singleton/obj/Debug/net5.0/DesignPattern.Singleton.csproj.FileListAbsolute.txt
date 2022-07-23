@@ -1,0 +1,16 @@
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.exe
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.deps.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.runtimeconfig.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\ref\DesignPattern.Singleton.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\bin\Debug\net5.0\DesignPattern.Singleton.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\ref\DesignPattern.Singleton.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.genruntimeconfig.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.Singleton\obj\Debug\net5.0\DesignPattern.Singleton.csproj.AssemblyReference.cache

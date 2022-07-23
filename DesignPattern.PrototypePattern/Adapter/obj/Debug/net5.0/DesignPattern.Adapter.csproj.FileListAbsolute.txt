@@ -1,0 +1,15 @@
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.exe
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.deps.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.runtimeconfig.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\ref\DesignPattern.Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\DesignPattern.Adapter.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\ref\DesignPattern.Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\DesignPattern.Adapter.genruntimeconfig.cache

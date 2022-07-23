@@ -1,0 +1,16 @@
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.exe
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.deps.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.runtimeconfig.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\ref\DesignPattern.AbstractFactory.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\bin\Debug\net5.0\DesignPattern.AbstractFactory.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\ref\DesignPattern.AbstractFactory.dll
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\CreationalPatterns\DesignPattern.AbstractFactory\obj\Debug\net5.0\DesignPattern.AbstractFactory.genruntimeconfig.cache

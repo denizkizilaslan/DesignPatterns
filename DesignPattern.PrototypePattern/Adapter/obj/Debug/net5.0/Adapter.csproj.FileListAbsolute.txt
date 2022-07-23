@@ -1,0 +1,15 @@
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\Deniz\source\repos\DesignPatterns\DesignPattern.PrototypePattern\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
